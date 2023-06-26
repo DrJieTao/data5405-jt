@@ -24,6 +24,7 @@
 ## Course Support Staff
 - Python Tutors:
   + Wilson Alexei __USE SLACK INSTEAD__
+
 Support staff office hours and locations to be announced on __Slack__.
 
 ---
