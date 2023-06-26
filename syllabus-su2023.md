@@ -242,7 +242,7 @@ The following course outline is tentative and subject to change when and where d
 |  | Lesson 6: Strings | Aug., 7 | Aug., 10 |
 |  | Lab 6: Strings | Aug., 7 | Aug., 12 |
 |  | **Workshop 3** | Aug., 7 | Aug., 13 |
-| 5 | Data Collections |
+| 6 | Data Collections |
 |  | Lesson 7: lists | Aug., 7 | Aug., 14 |
 |  | Lab 7: lists | Aug., 7 | Aug., 15 |
 |  | Reading PY4E Chapter 9 | Aug., 7 | Aug., 16 |
