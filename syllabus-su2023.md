@@ -228,7 +228,7 @@ The following course outline is tentative and subject to change when and where d
 |  | Reading PY4E Chapter 3 |  | Jul., 17 |
 |  | Lesson 3: Conditionals | Jul., 16 | Jul., 19 |
 |  | Lab 3: Conditionals | Jul., 16 | Jul., 22 |
-|  | **Workshop 1** | Jul., 16 | Jul., 23 |
+|  | **Workshop 1** | Jul., 16 | Jul., 25 |
 | 3 | Functions and Testing |
 |  | Reading PY4E Chapter 4 |  | Jul., 24 |
 |  | Lesson 4: Functions | Jul., 23 | Jul., 26 |
@@ -237,12 +237,12 @@ The following course outline is tentative and subject to change when and where d
 |  | Reading PY4E Chapter 5 |  | Jul., 31 |
 |  | Lesson 5: Iterations | Jul., 30 | Aug., 3 |
 |  | Lab 5: Iterations | Jul., 30 | Aug., 5 |
-|  | **Workshop 2** | Jul., 30 | Aug., 6 |
+|  | **Workshop 2** | Jul., 30 | Aug., 8 |
 | 5 | Data Collections |
 |  | Reading PY4E Chapter 6 & 8 |  | Aug., 8 |
 |  | Lesson 6: Strings | Aug., 7 | Aug., 10 |
 |  | Lab 6: Strings | Aug., 7 | Aug., 12 |
-|  | **Workshop 3** | Aug., 7 | Aug., 13 |
+|  | **Workshop 3** | Aug., 7 | Aug., 15 |
 | 6 | Data Collections |
 |  | Lesson 7: lists | Aug., 7 | Aug., 14 |
 |  | Lab 7: lists | Aug., 7 | Aug., 15 |
