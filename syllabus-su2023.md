@@ -244,7 +244,7 @@ The following course outline is tentative and subject to change when and where d
 |  | Reading PY4E Chapter 6 & 8 |  | Aug., 8 |
 |  | Lesson 6: Lists | Aug., 7 | Aug., 10 |
 |  | Lab 6: Lists | Aug., 7 | Aug., 12 |
-|  | **Workshop 3** | Aug., 7 | Aug., 15 |
+|  | **Workshop 3** | Aug., 6 | Aug., 15 |
 |  | **DataCamp Assignment 3: Dictionaries** | | Aug., 16 |
 | 6 | Data Collections |
 |  | Lesson 7: Strings | Aug., 7 | Aug., 14 |
