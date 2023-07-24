@@ -224,7 +224,7 @@ The following course outline is tentative and subject to change when and where d
 |  | Lab 1: Preliminaries | Jul., 9 | Jul., 14 |
 |  | Lesson 2: Basic Computation | Jul., 13 | Jul., 15 |
 |  | Lab 2: Basic Computation | Jul., 13 | Jul., 16 |
-|  | **DataCamp Assignment 1: Basics** | | Jul., 16 |
+|  | **DataCamp Assignment 1: Introduction to Python - Python Basics** | | Jul., 16 |
 | 2 | Logicals and Conditionals |
 |  | Reading PY4E Chapter 3 |  | Jul., 17 |
 |  | Lesson 3: Conditionals | Jul., 16 | Jul., 19 |
@@ -234,7 +234,7 @@ The following course outline is tentative and subject to change when and where d
 |  | Reading PY4E Chapter 4 |  | Jul., 24 |
 |  | Lesson 4: Functions | Jul., 23 | Jul., 26 |
 |  | Lab 4: Functions | Jul., 23 | Jul., 30 |
-|  | **DataCamp Assignment 2: Functions** | | Jul., 30 |
+|  | **DataCamp Assignment 2: Writing Functions in Python - Best Practices** | | Jul., 30 |
 | 4 | Loops and Repeated Operations |
 |  | Reading PY4E Chapter 5 |  | Jul., 31 |
 |  | Lesson 5: Iterations | Jul., 30 | Aug., 3 |
@@ -245,7 +245,7 @@ The following course outline is tentative and subject to change when and where d
 |  | Lesson 6: Lists | Aug., 7 | Aug., 10 |
 |  | Lab 6: Lists | Aug., 7 | Aug., 12 |
 |  | **Workshop 3** | Aug., 6 | Aug., 15 |
-|  | **DataCamp Assignment 3: Dictionaries** | | Aug., 16 |
+|  | **DataCamp Assignment 3: Data Types for Data Science in Python - Dictionaries - The Root of Python** | | Aug., 16 |
 | 6 | Data Collections |
 |  | Lesson 7: Strings | Aug., 7 | Aug., 14 |
 |  | Lab 7: Strings | Aug., 7 | Aug., 15 |
@@ -253,7 +253,7 @@ The following course outline is tentative and subject to change when and where d
 |  | Lesson 8: Dictionaries | Aug., 7 | Aug., 17 |
 |  | Lab 8: Dictionarie | Aug., 13 | Aug., 19 |
 |  | **Optional DataCamp Course: OOP in Python** | | Aug., 20 |
-|  | **Final Assessment** | Aug., 1 | Aug., 20 |
+|  | **Final Assessment - Python Programming** | Aug., 1 | Aug., 20 |
 
 
 
